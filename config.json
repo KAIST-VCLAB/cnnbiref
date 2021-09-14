@@ -1,0 +1,8 @@
+{
+  "model.weight": "./model/restore.pth",
+  "out.root": "./output/",
+  "data.root": "./data/synthetic/",
+  "data.min_disp": 5,
+  "data.max_disp": 20,
+  "batch.size": 1
+}
